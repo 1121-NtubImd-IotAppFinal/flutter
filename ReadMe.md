@@ -4,5 +4,11 @@
 #### 套件安裝
 
 ```
- ....
+ flutter pub get
+```
+
+#### 打包APK
+
+```
+ flutter build apk --release
 ```
